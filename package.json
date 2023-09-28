@@ -13,8 +13,10 @@
     "fix": "eslint src --fix"
   },
   "dependencies": {
+    "-": "^0.0.1",
     "axios": "^1.5.0",
     "element-plus": "^2.3.12",
+    "npm": "^10.1.0",
     "nprogress": "^0.2.0",
     "path": "^0.12.7",
     "pinia": "^2.0.34",
